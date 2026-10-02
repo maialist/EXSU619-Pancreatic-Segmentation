@@ -1,1 +1,1 @@
-# EXSU619-Pancreatic-Segmentation
+# EXSU500-Pancreatic-Segmentation
