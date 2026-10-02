@@ -1,7 +1,5 @@
 # EXSU500-Pancreatic-Segmentation
 
-# Pancreatic Anatomy Segmentation Using Artificial Intelligence
-
 ## Project Overview
 
 This project investigates the use of artificial intelligence to accurately identify and delineate pancreatic tumours on CT imaging. Automated tumour segmentation could provide a foundation for computer-assisted visualization of tumor anatomy during preoperative planning and future image-guided surgical systems. 
